@@ -7,7 +7,7 @@ A utility function for filtering out `null` and `undefined` values from RxJS str
 Install via npm:
 
 ```bash
-npm install filternil
+npm install rx-filternil
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ npm install filternil
 
 ```javascript
 import { of } from 'rxjs';
-import { filterNil } from 'filternil';
+import { filterNil } from 'rx-filternil';
 
 of(null, 1, undefined, 2, 3)
     .pipe(filterNil())
@@ -44,6 +44,3 @@ npm test
 ## License
 
 This project is licensed under the MIT License.
-```
-
-This `README.md` includes installation instructions, a usage example, a description of the API, and testing instructions.
