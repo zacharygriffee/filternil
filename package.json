@@ -1,5 +1,5 @@
 {
-  "name": "filternil",
+  "name": "rx-filternil",
   "version": "1.0.0",
   "description": "A utility function that filters out null and undefined values from RxJS streams or arrays.",
   "main": "index.js",
