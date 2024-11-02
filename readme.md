@@ -1,4 +1,3 @@
-```markdown
 # FilterNil
 
 A utility function for filtering out `null` and `undefined` values from RxJS streams or arrays.
