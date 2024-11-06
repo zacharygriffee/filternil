@@ -1,6 +1,6 @@
 {
   "name": "rx-filternil",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A utility function that filters out null and undefined values from RxJS streams or arrays.",
   "main": "index.js",
   "type": "module",
@@ -26,5 +26,5 @@
   },
   "author": "Zachary Griffee <zacharygriffee@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/zacharygriffee/filternil#readme"
+  "homepage": "https://github.com/zacharygriffee/rx-filternil#readme"
 }
